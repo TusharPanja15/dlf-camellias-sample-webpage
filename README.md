@@ -16,16 +16,16 @@
 
 # Popup form on startup
 
-![a](../main/docs/img/screenshots/web-screenshot.png)
+![a](../main/docs/img/screenshots/web-screenshot(2).png)
 
 
 
 # Form to continue downloading a file
 
-![a](../main/docs/img/screenshots/web-screenshot.png)
+![a](../main/docs/img/screenshots/web-screenshot(4).png)
 
 
 
 # Image gallary with read more links!
 
-![a](../main/docs/img/screenshots/web-screenshot.png)
+![a](../main/docs/img/screenshots/web-screenshot(3).png)
