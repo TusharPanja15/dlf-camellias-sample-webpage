@@ -1,1 +1,1 @@
-![a](../root/web-screenshot.PNG)
+![a](/web-screenshot.PNG)
