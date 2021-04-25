@@ -44,7 +44,7 @@ After Creating Database,
 
 
 
-# Image gallary with read more links!
+# Image gallary with read more links on it!
 
 ![a](../main/docs/img/screenshots/web-screenshot(3).png)
 
