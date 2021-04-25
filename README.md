@@ -32,12 +32,19 @@
 
 
 
-# How To Run The Project? 
+# How To Run The Assignment? 
 
-To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows) or MAMP (for Mac). This Vendor Management System is in PHP with source code is free to download, Use for educational purposes only!
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows) or MAMP (for Mac). This Assignment is in PHP with source code!
 
 After Starting Apache and MySQL servers in XAMPP, follow the following steps. 
 
-- **1st Step** -: Extract file. 2nd Step: Copy the main project folder and Paste it into " xampp/htdocs/ " folder. 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/” 5th Step: Then, click on the databases tab 6th Step: Create a database naming “project” and then click on the import tab. 7th Step: Click on browse file and select “poject.sql” file from "sql" folder. 8th Step: Click on go.
+- **1st Step:** Extract file. 
+- **2nd Step:** Copy the main project folder and Paste it into " xampp/htdocs/ " folder as named 'root'. 
+- **3rd Step:** Open a browser and go to URL “http://localhost/phpmyadmin/” 
+- **4th Step:** Then, click on the databases tab 6th Step: Create a database naming “dlfcamellias” and then click on the import tab. 
+- **5th Step:** Click on browse file and select “dlfcamellias.sql” file from "sql" folder. 
+- **6th Step:** Click on go.
 
-After Creating Database, 9th Step: Open a browser and go to URL “http://localhost/project/”
+After Creating Database, 
+
+- **7th Step:** Open a browser and go to URL “http://localhost/root/”
