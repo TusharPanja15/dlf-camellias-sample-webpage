@@ -2,7 +2,7 @@
 
 
 
-# How To Run The Assignment? 
+# How To Run This Project? 
 
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows) or MAMP (for Mac). This Assignment is in PHP with source code!
 
