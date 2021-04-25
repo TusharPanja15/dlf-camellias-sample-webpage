@@ -5,7 +5,7 @@
 
 Assigned Task
 
-![a](../main/docs/img/screenshots/Screenshot (115).png)
+![a](../main/docs/img/screenshots/task.png)
 
 
 Designed Wbsite
